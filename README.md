@@ -1,3 +1,3 @@
-02 - Pricing table.
+Project02 - Pricing table.
 
-01 - Login form using Bootstrap.
+Project01 - Login form using Bootstrap.
